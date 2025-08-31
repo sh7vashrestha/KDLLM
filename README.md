@@ -74,17 +74,21 @@ The following Hugging Face datasets and models are publicly available for reprod
 ## 📚 Citation
 
 ```bibtex
-@article{shrestha2025kdllm,
-  title={KDLLM: Knowledge Distillation for Compressed and Copyright-Safe Large Language Model Sharing},
-  author={Shiva Shrestha et al.},
-  journal={Tsinghua Science and Technology},
-  year={2025}
+@article{Shrestha2025, 
+author = {Shiva Shrestha and Honghui Xu and Zongxing Xie and Daehee Seo and Yongjoon Joe and Wonbin Kim and Yingshu Li},
+title = {KDLLM: Copyright-Preserving LLM based on Knowledge Distillation},
+year = {2025},
+journal = {Tsinghua Science and Technology},
+keywords = {Large Language Models, Knowledge Distillation, Model Copyright Protection, Intellectual Property in AI},
+url = {https://www.sciopen.com/article/10.26599/TST.2025.9010130},
+doi = {10.26599/TST.2025.9010130},
+abstract = {Large Language Models (LLMs) have emerged as the cornerstone of various natural language processing activities, enabling everything from chatbots to text classification and summarization. However, using LLMs presents some significant challenges, most notably the threat of intellectual property infringement from the exposure of the entire model and the excessive communication and storage overhead associated with their large size. We propose KDLLM, a novel knowledge distillation-based framework for efficient and compact LLMs to address these challenges. KDLLM transfers the performance of a large teacher LLM to a significantly smaller student model with high performance similarity to its teacher, while obscuring architectural and parameter-level details to protect the intellectual property of the original model. The resulting student model substantially reduces the memory footprint and transmission overhead, making it amenable to deployment in bandwidth-constrained or security-sensitive environments. Comprehensive experiments demonstrate that KDLLM achieves robust performance preservation and boosts copyright protection and communication efficiency.}
 }
 ```
 
 ## 📬 Contact
 
-For more details, refer to the publication at [Tsinghua Science and Technology Journal](https://mc03.manuscriptcentral.com/tst).
+For more details, refer to the publication at [Tsinghua Science and Technology Journal](https://www.sciopen.com/article/10.26599/TST.2025.9010130).
 
 ---
 
