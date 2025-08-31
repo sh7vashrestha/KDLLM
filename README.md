@@ -61,7 +61,7 @@ KDLLM introduces:
 
 The following Hugging Face datasets and models are publicly available for reproduction and further research:
 
-* [Bert\_Small\_13B\_Sentiment\_WD](https://huggingface.co/sh7vashrestha/Bert_Small_13B_Sentiment_WD)
+* [Bert\_Small\_13M\_Sentiment\_WD](https://huggingface.co/sh7vashrestha/Bert_Small_13B_Sentiment_WD)
 * [Bert\_Small\_13M\_SentimentalAnalysis](https://huggingface.co/sh7vashrestha/Bert_Small_13M_SentimentalAnalysis)
 * [BertBaseUncased-SenetimentAnalysis](https://huggingface.co/sh7vashrestha/BertBaseUncased-SenetimentAnalysis)
 
